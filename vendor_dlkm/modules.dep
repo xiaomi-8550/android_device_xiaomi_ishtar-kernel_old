@@ -224,7 +224,7 @@
 /vendor/lib/modules/slimbus.ko:
 /vendor/lib/modules/qcom-spmi-adc5-gen3.ko: /vendor/lib/modules/qcom-vadc-common.ko
 /vendor/lib/modules/usb_f_qdss.ko: /vendor/lib/modules/usb_bam.ko /vendor/lib/modules/dwc3-msm.ko /vendor/lib/modules/redriver.ko /vendor/lib/modules/sps_drv.ko
-/vendor/lib/modules/mi_thermal_interface.ko: /vendor/lib/modules/panel_event_notifier.ko
+/vendor/lib/modules/mi_thermal_interface.ko: /vendor/lib/modules/qti_battery_charger.ko /vendor/lib/modules/panel_event_notifier.ko /vendor/lib/modules/pmic_glink.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/phy-qcom-ufs-qmp-v4-khaje.ko:
 /vendor/lib/modules/coresight-tgu.ko: /vendor/lib/modules/coresight.ko
 /vendor/lib/modules/ipam.ko: /vendor/lib/modules/gsim.ko /vendor/lib/modules/qcom_va_minidump.ko /vendor/lib/modules/ipa_fmwk.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/mhi.ko /vendor/lib/modules/pci-msm-drv.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
